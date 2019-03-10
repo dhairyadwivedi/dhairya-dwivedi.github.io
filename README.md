@@ -1,5 +1,4 @@
-# dhairyadwivedi.github.io
 Hi!
 
-My Github user page is at:
-http://github.com/dhairyadwivedi/
+This is the first version of my portfolio site. Hosted at - dhairyadwivedi.com
+
